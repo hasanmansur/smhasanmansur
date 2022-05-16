@@ -4,9 +4,10 @@ role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering
+  - HCI
+  - Machine Learning
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
