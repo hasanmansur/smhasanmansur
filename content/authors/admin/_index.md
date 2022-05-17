@@ -1,6 +1,7 @@
 ---
 title: S M Hasan Mansur
 role: PhD Student
+avatar_filename: propic.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -33,10 +34,10 @@ education:
   courses:
     - course: PhD student in CS
       institution: George Mason University
-      year: "2018 - Present"
+      year: 2018 - Present
     - course: BS in CS
       institution: Shah Jalal University of Science & Technology, Bangladesh
-      year: "2002 - 2007"
+      year: 2002 - 2007
 email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
