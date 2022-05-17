@@ -34,6 +34,8 @@ education:
     - course: phd
       institution: gmu
       year: ""
+    - course: bsc
+      institution: sust
 email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
