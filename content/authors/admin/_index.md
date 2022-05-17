@@ -14,16 +14,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/smhasanmansur
+    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=4jYHGG0AAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/hasanmansur
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/smhasanmansur/
+    link: https://www.linkedin.com/
 organizations:
   - name: Computer Science
     url: cs.gmu.edu
@@ -31,16 +31,10 @@ organizations:
     name: George Mason University
 education:
   courses:
-    - course: PhD student in Computer Science
-      institution: George Mason University
-      year: 2018 - Present
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: phd
+      institution: gmu
+      year: ""
+email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
