@@ -28,7 +28,7 @@ social:
 organizations:
   - url: https://sagelab.io/
     name: SAGE Lab
-  - url: cs.gmu.edu
+  - url: https://cs.gmu.edu
     name: Computer Science
   - url: https://www.gmu.edu/
     name: George Mason University
