@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - url: https://www.gmu.edu/
-    name: George Mason University
+    name: Computer Science | George Mason University
 education:
   courses:
     - course: PhD in Artificial Intelligence
