@@ -35,9 +35,25 @@ item:
     date_end: ''
     date_start: '2022-05-11'
     description: ''
-    organization: CS PhD Research Sumposium 2022, Dept. of CS, George Mason University
+    organization: CS PhD Research Sumposium 2022, George Mason University
     organization_url: 
     title: Best Poster Presentation Award
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '1999-09-01'
+    description: ''
+    organization: Secondary School Certificate Examination, National Education Board of Bangladesh
+    organization_url: 
+    title: National Education Board Scholarship
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2001-09-01'
+    description: ''
+    organization: Higher Secondary School Certificate Examination, National Education Board of Bangladesh
+    organization_url: 
+    title: National Education Board Scholarship
     url: ''
 
 design:
