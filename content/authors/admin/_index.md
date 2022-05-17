@@ -26,6 +26,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
+  - url: https://sagelab.io/
+    name: SAGE Lab
+  - url: cs.gmu.edu
+    name: Computer Science
   - url: https://www.gmu.edu/
     name: George Mason University
 education:
