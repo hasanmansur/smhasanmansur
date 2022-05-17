@@ -1,7 +1,7 @@
 ---
 title: S M Hasan Mansur
 role: PhD Student
-avatar_filename: propic.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
