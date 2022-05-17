@@ -5,7 +5,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Software Engineering
-  - HCI
+  - Human Computer Interaction
   - Machine Learning
   - Computer Vision
 social:
@@ -31,11 +31,12 @@ organizations:
     name: George Mason University
 education:
   courses:
-    - course: phd
-      institution: gmu
-      year: ""
-    - course: bsc
-      institution: sust
+    - course: PhD student in CS
+      institution: George Mason University
+      year: "2018 - Present"
+    - course: BS in CS
+      institution: Shah Jalal University of Science & Technology, Bangladesh
+      year: "2002 - 2007"
 email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
