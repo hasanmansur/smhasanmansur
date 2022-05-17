@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2022-05-11'
     description: ''
-    organization: , CS PhD Research Sumposium 2022, Dept. of CS, George Mason University
+    organization: CS PhD Research Sumposium 2022, Dept. of CS, George Mason University
     organization_url: 
     title: Best Poster Presentation Award
     url: ''
