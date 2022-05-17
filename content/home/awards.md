@@ -25,11 +25,19 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2018-05-25'
     description: ''
     organization: Dept. of Computer Science, George Mason University
     organization_url: 
     title: Summer Research Initiation Award
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-05-11'
+    description: ''
+    organization: Dept. of Computer Science, George Mason University
+    organization_url: 
+    title: Best Poster Presentation Award, CS PhD Research Sumposium 2022
     url: ''
 
 design:
