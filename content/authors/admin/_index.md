@@ -26,8 +26,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Computer Science
-    url: cs.gmu.edu
   - url: https://www.gmu.edu/
     name: George Mason University
 education:
