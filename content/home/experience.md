@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+    company: SAGE Lab
+    company_url: 'https://sagelab.io/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: GMU, Virginia, USA
+    date_start: '2021-05-01'
+    date_end: 
     description: |2-
         Developing automated approaches for detecting deceptive
         UI designs to protect users from designs with malicious
