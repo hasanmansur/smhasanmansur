@@ -84,6 +84,16 @@ experience:
     description: |2-
         Developed a Key-Value pair parser using C language which achieved 
         30% less execution time compared to the previous Python implementation
+  - title: System Engineer
+    company: Grameenphone Ltd
+    company_url: https://www.grameenphone.com/
+    company_logo: sage-lab
+    location: Bangladesh
+    date_start: '2007-07-01'
+    date_end: '2011-02-01'
+    description: |2-
+        Configured and optimized the transmission and core
+        network serving over 20 million users
 
 design:
   columns: '2'
