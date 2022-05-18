@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+<!--   - title: CEO
     company: GenCoin
     company_url: ''
     company_logo: org-gc
@@ -43,7 +43,17 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engineering and researched semiconductor physics. -->
+    
+  - title: Graduate Research Assistant
+    company: SAGE Lab
+    company_url: ''
+    company_logo: org-x
+    location: Virginia, USA
+    date_start: '2021-05-01'
+    date_end: 
+    description: Developing automated approaches for detecting deceptiv UI designs to protect users from designs with malicious
+    intent, and guide the developers in complying with the ethical design principles.
 
 design:
   columns: '2'
