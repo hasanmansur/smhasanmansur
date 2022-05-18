@@ -34,6 +34,16 @@ experience:
         UI designs to protect users from designs with malicious
         intent, and guide the developers in complying with the
         ethical design principles
+   - title: Graduate Teaching Assistant
+    company: Dept. of Computer Science
+    company_url: 'https://cs.gmu.edu/'
+    company_logo: sage-lab
+    location: GMU, Virginia, USA
+    date_start: '2018-08-01'
+    date_end: '2021-05-01'
+    description: |2-
+        Assisted the course instructor in mentoring students,
+        grading assignments and proctoring exams
 
 design:
   columns: '2'
