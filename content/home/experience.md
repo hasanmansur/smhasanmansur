@@ -53,7 +53,7 @@ experience:
     date_end: '2018-07-01'
     description: |2-
         Developed social media query management and analytics
-        modules in 'smashboard.co' with Node.js-MySQL-RedisSocket.IO stack
+        modules in 'smashboard.co' with Node.js-MySQL-Redis-Socket.IO stack
 
 design:
   columns: '2'
