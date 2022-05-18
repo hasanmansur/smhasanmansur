@@ -44,10 +44,17 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
+- CS PhD student with ​5+ years of professional experience in Software Development 
+- Research endeavor is focused on developing automated approaches to support Software Engineering process
+- Exploring applications of Deep Learning to solve problems from HCI and Software Engineering domains
+- Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
+- Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
+- Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
+- Passionate about building deep learning models. Good working knowledge with PyTorch, OpenCV, NumPy, pandas
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you think of me as a cultural fit, please connect with me through this profile or drop me an email at smhasanmansur@gmail.com.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
