@@ -30,8 +30,10 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: |2-
-        Taught electronic engineering and researched semiconductor physics.
-        fslkfjslkfjlsjflsjflsjflsjflsjflsjflsj
+        Developing automated approaches for detecting deceptive
+        UI designs to protect users from designs with malicious
+        intent, and guide the developers in complying with the
+        ethical design principles
 
 design:
   columns: '2'
