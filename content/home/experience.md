@@ -44,6 +44,16 @@ experience:
     description: |2-
         Assisted the course instructor in mentoring students,
         grading assignments and proctoring exams
+  - title: Software Engineer
+    company: Ice9 Interactive
+    company_url: 
+    company_logo: sage-lab
+    location: Bangladesh
+    date_start: '2017-04-01'
+    date_end: '2018-07-01'
+    description: |2-
+        Developed social media query management and analytics
+        modules in 'smashboard.co' with Node.js-MySQL-RedisSocket.IO stack
 
 design:
   columns: '2'
