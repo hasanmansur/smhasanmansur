@@ -8,7 +8,7 @@ authors:
   - Tyler Wendland
   - Jingyang Sun
   - Junayed Mahmud
-  - *admin*
+  - S M Hasan Mansur
   - Steven Huang
   - Kevin Moran
   - Julia Rubin
