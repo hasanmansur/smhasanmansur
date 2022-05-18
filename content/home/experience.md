@@ -54,6 +54,16 @@ experience:
     description: |2-
         Developed social media query management and analytics
         modules in 'smashboard.co' with Node.js-MySQL-Redis-Socket.IO stack
+  - title: Software Engineer
+    company: Synchronous ICT
+    company_url: 
+    company_logo: sage-lab
+    location: Bangladesh
+    date_start: '2015-02-01'
+    date_end: '2017-04-01'
+    description: |2-
+        Developed multiple back-end modules of an in-house
+        project with Node.js-MongoDB-Redis-Elasticsearch stack
 
 design:
   columns: '2'
