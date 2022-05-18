@@ -64,6 +64,16 @@ experience:
     description: |2-
         Developed multiple back-end modules of an in-house
         project with Node.js-MongoDB-Redis-Elasticsearch stack
+  - title: Software Engineer
+    company: Dcastalia
+    company_url: https://dcastalia.com/
+    company_logo: sage-lab
+    location: Bangladesh
+    date_start: '2013-08-01'
+    date_end: '2015-01-01'
+    description: |2-
+        Developed and published 'HE Business Manager' - an Android 
+        application for inventory management of healthcare products
 
 design:
   columns: '2'
