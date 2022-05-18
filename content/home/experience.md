@@ -74,6 +74,16 @@ experience:
     description: |2-
         Developed and published 'HE Business Manager' - an Android 
         application for inventory management of healthcare products
+  - title: Student Intern
+    company: Daimler AG
+    company_url: 
+    company_logo: sage-lab
+    location: Ulm, Germany
+    date_start: '2012-10-01'
+    date_end: '2013-07-01'
+    description: |2-
+        Developed a Key-Value pair parser using C language which achieved 
+        30% less execution time compared to the previous Python implementation
 
 design:
   columns: '2'
