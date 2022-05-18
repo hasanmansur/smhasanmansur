@@ -25,7 +25,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: SAGE Lab
     company_url: 'https://sagelab.io/'
-    company_logo: org-x
+    company_logo: sage-lab
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
     date_end: 
