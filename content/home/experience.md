@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Research Assistant
     company: SAGE Lab
-    company_url: 'https://sagelab.io/'
+    company_url: 
     company_logo: sage-lab
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
@@ -36,7 +36,7 @@ experience:
         ethical design principles
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
-    company_url: 'https://cs.gmu.edu/'
+    company_url: 
     company_logo: sage-lab
     location: GMU, Virginia, USA
     date_start: '2018-08-01'
@@ -66,7 +66,7 @@ experience:
         project with Node.js-MongoDB-Redis-Elasticsearch stack
   - title: Software Engineer
     company: Dcastalia
-    company_url: https://dcastalia.com/
+    company_url: 
     company_logo: sage-lab
     location: Bangladesh
     date_start: '2013-08-01'
@@ -86,7 +86,7 @@ experience:
         30% less execution time compared to the previous Python implementation
   - title: System Engineer
     company: Grameenphone Ltd
-    company_url: https://www.grameenphone.com/
+    company_url: 
     company_logo: sage-lab
     location: Bangladesh
     date_start: '2007-07-01'
