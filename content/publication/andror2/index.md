@@ -35,7 +35,8 @@ publication_types: ['1']
 publication: In *2021 IEEE/ACM 18th International Conference on Mining Software Repositories*
 publication_short: In *MSR*
 
-abstract: Software maintenance constitutes a large portion of the software development lifecycle. To carry out maintenance tasks, developers often need
+abstract: Software maintenance constitutes a large portion of the software development lifecycle. To carry out maintenance tasks, developers often need to understand and reproduce bug reports. As such, there has been increasing research activity coalescing around the notion of automating various activities related to bug reporting. A sizable portion of this research interest has focused on the domain of mobile apps. 
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
