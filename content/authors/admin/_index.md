@@ -2,8 +2,7 @@
 title: S M Hasan Mansur
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Software Engineering, Human Computer Interaction, Machine Learning and Computer Vision.
 interests:
   - Software Engineering
   - Human Computer Interaction
