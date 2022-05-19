@@ -1,6 +1,6 @@
 ---
-title: Ontorjal
-summary: Implementation of DNS client & Distance Vector Routing protocol.
+title: KVP Reader
+summary: A text data parser which converts Key Value Pair data into canonical format. Input stream can be either canonical or flat or canonical-flat mixed & output is always a canonical data stream.
 # tags:
 #  - Deep Learning
 date: '2019-11-27T00:00:00Z'
@@ -31,8 +31,8 @@ slides:
 ---
 **Tech Stack:**
 
-Python
+C
 
 **Summary:**
 
-Implementation of DNS client & Distance Vector Routing protocol.
+A text data parser which converts Key Value Pair data into canonical format. Input stream can be either canonical or flat or canonical-flat mixed & output is always a canonical data stream.
