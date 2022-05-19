@@ -1,6 +1,6 @@
 ---
 title: AidUI
-summary: AidUI, a novel automated approach that adapts deep learning techniques for computer vision to analyze user interfaces and detect, localize, and classify potential underlying dark patterns.
+summary: AidUI, a novel automated approach to detect UI Dark Patterns.
 # tags:
 #  - Deep Learning
 date: '2022-04-27T00:00:00Z'
