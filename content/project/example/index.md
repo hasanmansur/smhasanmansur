@@ -29,5 +29,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-Summary:
+**Summary:**
+
 A collection of programs to demonstrate various Computer Vision concepts/topics like Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation.
