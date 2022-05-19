@@ -54,7 +54,7 @@ url_pdf: 'https://arxiv.org/pdf/2106.08403.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://github.com/SageSELab/androR2'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -71,8 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
