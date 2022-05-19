@@ -1,5 +1,5 @@
 ---
-title: Ontorjal
+title: HE Business Manager
 summary: Implementation of DNS client & Distance Vector Routing protocol.
 # tags:
 #  - Deep Learning
