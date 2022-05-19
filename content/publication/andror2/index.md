@@ -72,7 +72,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - andror2
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
