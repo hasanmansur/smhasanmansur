@@ -1,9 +1,9 @@
 ---
 title: HE Business Manager
-summary: Implementation of DNS client & Distance Vector Routing protocol.
+summary: Android application for inventory management of healthcare products.
 # tags:
 #  - Deep Learning
-date: '2019-11-27T00:00:00Z'
+date: '2015-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -31,8 +31,8 @@ slides:
 ---
 **Tech Stack:**
 
-Python
+AndroidSDK, Java, SQLite
 
 **Summary:**
 
-Implementation of DNS client & Distance Vector Routing protocol.
+Android application for inventory management of healthcare products.
