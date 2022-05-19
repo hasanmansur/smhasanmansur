@@ -35,7 +35,7 @@ publication_types: ['1']
 publication: In *2021 IEEE/ACM 18th International Conference on Mining Software Repositories*
 publication_short: In *MSR*
 
-abstract: Software maintenance constitutes a large portion of the software development lifecycle. To carry out maintenance tasks, developers often need to understand and reproduce bug reports. As such, there has been increasing research activity coalescing around the notion of automating various activities related to bug reporting. A sizable portion of this research interest has focused on the domain of mobile apps. However, as research around mobile app bug reporting progresses, there is a clear need for a manually vetted and reproducible set of real-world bug reports that can serve as a benchmark for future work. This paper presents ANDROR2: a dataset of 90 manually reproduced bug reports for Android apps listed on Google Play and hosted on GitHub, systematically collected via an in-depth analysis of 459 reports extracted from the GitHub issue tracker. 
+abstract: Software maintenance constitutes a large portion of the software development lifecycle. To carry out maintenance tasks, developers often need to understand and reproduce bug reports. As such, there has been increasing research activity coalescing around the notion of automating various activities related to bug reporting. 
 
 
 # Summary. An optional shortened abstract.
