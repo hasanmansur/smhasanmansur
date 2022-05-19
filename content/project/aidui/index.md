@@ -1,6 +1,7 @@
 ---
-title: Ontorjal
-summary: Implementation of DNS client & Distance Vector Routing protocol.
+title: AidUI
+summary: AidUI, a novel automated approach that adapts deep learning techniques for computer vision to analyze user interfaces and detect,
+localize, and classify potential underlying dark patterns.
 # tags:
 #  - Deep Learning
 date: '2019-11-27T00:00:00Z'
@@ -17,7 +18,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/hasanmansur/Ontorjal'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -29,10 +30,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-**Tech Stack:**
-
-Python
 
 **Summary:**
 
-Implementation of DNS client & Distance Vector Routing protocol.
+AidUI, a novel automated approach that adapts deep learning techniques for computer vision to analyze user interfaces and detect,
+localize, and classify potential underlying dark patterns.
