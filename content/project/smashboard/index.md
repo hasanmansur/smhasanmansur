@@ -1,12 +1,12 @@
 ---
-title: Ontorjal
-summary: Implementation of DNS client & Distance Vector Routing protocol.
+title: Smashboard
+summary: A social media query management & analytics platform.
 # tags:
 #  - Deep Learning
-date: '2019-11-27T00:00:00Z'
+date: '2018-07-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://smashboard.co/'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -17,7 +17,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/hasanmansur/Ontorjal'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -31,8 +31,8 @@ slides:
 ---
 **Tech Stack:**
 
-Python
+Node.js, Express, MySQL, Redis, SocketIO
 
 **Summary:**
 
-Implementation of DNS client & Distance Vector Routing protocol.
+a social media query management & analytics platform. It streamlines activities from different social media accounts into one simple dashboard.
