@@ -16,13 +16,13 @@ content:
   autolink: false
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
 
   # Contact details (edit or remove options as required)
   email: smhasanmansur@gmail.com
