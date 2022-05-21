@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: smansur4@gmu.edu
+  email: smhasanmansur@gmail.com
   phone: +15713545264
   address:
     street: 3141 Bayswater Ct
