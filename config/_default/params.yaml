@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Me. This work is licensed under {license}'
+    notice: '© {2022} S M Hasan Mansur.'
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
