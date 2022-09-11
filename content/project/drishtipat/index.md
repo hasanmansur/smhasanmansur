@@ -1,6 +1,6 @@
 ---
 title: Drishtipat
-summary: A collection of programs to demonstrate various Computer Vision concepts/topics like Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation.
+summary: Implementation of different concepts/topics of Computer Vision.
 # tags:
 #  - Deep Learning
 date: '2020-06-27T00:00:00Z'
