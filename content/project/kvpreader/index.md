@@ -1,7 +1,8 @@
 ---
 title: KVP Reader
-summary: this is a test summary
-tools: C, Python
+summary: 
+  - this is a test summary
+  - tools: C, Python
 # tags:
 #  - Deep Learning
 date: '2013-07-27T00:00:00Z'
