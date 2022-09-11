@@ -52,7 +52,7 @@ highlight_name: true
 
 I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
 
-If you think of me as a cultural fit, please connect with me through this profile or drop me an email at smhasanmansur@gmail.com.
+<!-- If you think of me as a cultural fit, please connect with me through this profile or drop me an email at smhasanmansur@gmail.com. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
