@@ -50,8 +50,11 @@ experience:
     date_start: '2017-04-01'
     date_end: '2018-07-01'
     description: |2-
-        Developed social media query management and analytics
-        modules in 'smashboard.co' with Node.js-MySQL-Redis-Socket.IO stack
+        - Worked on the engineering and infrastructure team responsible for developing social media query and analytics platforms of project  
+        'smashboard.co'
+        - Implemented master-replica architecture to resolve the synchronization delay of real time queries from social platforms
+        - Established standard software engineering practices like version controlling, issue & project tracking
+        - Assessed the capacity to deliver, formed sprints and released duration based development milestones
   - title: Software Engineer
     company: Synchronous ICT
     company_url: 
@@ -60,8 +63,8 @@ experience:
     date_start: '2015-02-01'
     date_end: '2017-04-01'
     description: |2-
-        Developed multiple back-end modules of an in-house
-        project with Node.js-MongoDB-Redis-Elasticsearch stack
+        - Lead the backend engineering team responsible for developing user management and search platforms of project 'ComX
+        - Documented technical specifications & maintained all reports pertaining to the development process
   - title: Software Engineer
     company: Dcastalia
     company_url: 
@@ -70,8 +73,8 @@ experience:
     date_start: '2013-08-01'
     date_end: '2015-01-01'
     description: |2-
-        Developed and published 'HE Business Manager' - an Android 
-        application for inventory management of healthcare products
+        - Developed and published native Android application 'HE Business Manager'
+        - Collaborated with the server-side team to design the database & the APIs
   - title: Student Intern
     company: Daimler AG
     company_url: 
@@ -80,8 +83,7 @@ experience:
     date_start: '2012-10-01'
     date_end: '2013-07-01'
     description: |2-
-        Developed a Key-Value pair parser using C language which achieved 
-        30% less execution time compared to the previous Python implementation
+        - Developed a key-value pair parser for environment perception data
   - title: System Engineer
     company: Grameenphone Ltd
     company_url: 
@@ -90,8 +92,8 @@ experience:
     date_start: '2007-07-01'
     date_end: '2011-02-01'
     description: |2-
-        Configured and optimized the transmission and core
-        network serving over 20 million users
+        - Member of the transmission optimization team to serve over 20 million users
+        - Analysed detected alarms, classified probable causes, and fixed or escalated issues to the concerned stakeholders
 
 design:
   columns: '2'
