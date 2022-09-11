@@ -23,36 +23,36 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
-    date_end: 2019-08-24'
+  - certificate_url:
+    date_end: '2019-08-24'
     date_start: '2019-05-25'
     description: ''
     organization: Dept. of Computer Science, George Mason University
-    organization_url: 
+    organization_url:
     title: Summer Research Initiation Award
     url: ''
-  - certificate_url: 
+  - certificate_url:
     date_end: ''
     date_start: '2022-05-11'
     description: ''
     organization: CS PhD Research Sumposium 2022, George Mason University
-    organization_url: 
+    organization_url:
     title: Best Poster Presentation Award
     url: ''
-  - certificate_url: 
+  - certificate_url:
     date_end: ''
     date_start: '1999-09-01'
     description: ''
     organization: Secondary School Certificate Examination, National Education Board of Bangladesh
-    organization_url: 
+    organization_url:
     title: National Education Board Scholarship
     url: ''
-  - certificate_url: 
+  - certificate_url:
     date_end: ''
     date_start: '2001-09-01'
     description: ''
     organization: Higher Secondary School Certificate Examination, National Education Board of Bangladesh
-    organization_url: 
+    organization_url:
     title: National Education Board Scholarship
     url: ''
 
