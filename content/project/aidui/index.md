@@ -29,7 +29,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-
-**Summary:**
-
-AidUI, a novel automated approach that adapts deep learning techniques for computer vision to analyze user interfaces and detect, localize, and classify potential underlying dark patterns.
