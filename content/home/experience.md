@@ -30,10 +30,8 @@ experience:
     date_start: '2021-05-01'
     date_end: 
     description: |2-
-        Developing automated approaches for detecting deceptive
-        UI designs to protect users from designs with malicious
-        intent, and guide the developers in complying with the
-        ethical design principles
+        Working on research projects focused on developing automated approaches to help
+        facilitate Ethical Software Design, Software Evolution, and Software Accessibility
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
     company_url: 
@@ -42,8 +40,8 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-05-01'
     description: |2-
-        Assisted the course instructor in mentoring students,
-        grading assignments and proctoring exams
+        ● Mentored CS undergrad students for the “Database Systems”, “Introduction to Computer Programming” and "Computer Vision" courses
+        ● Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns
   - title: Software Engineer
     company: Ice9 Interactive
     company_url: 
