@@ -30,7 +30,7 @@ experience:
     date_start: '2021-05-01'
     date_end: 
     description: |2-
-        Working on research projects focused on developing automated approaches to help
+        - Working on research projects focused on developing automated approaches to help
         facilitate Ethical Software Design, Software Evolution, and Software Accessibility
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
@@ -40,8 +40,8 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-05-01'
     description: |2-
-        ● Mentored CS undergrad students for the “Database Systems”, “Introduction to Computer Programming” and "Computer Vision" courses
-        ● Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns
+        - Mentored CS undergrad students for the “Database Systems”, “Introduction to Computer Programming” and "Computer Vision" courses
+        - Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns
   - title: Software Engineer
     company: Ice9 Interactive
     company_url: 
