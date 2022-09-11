@@ -1,8 +1,7 @@
 ---
 title: Smashboard
 summary: A social media query management & analytics platform 
-&nbsp; 
-Node.js, Express, MySQL, Redis, SocketIO
+&nbsp; Node.js, Express, MySQL, Redis, SocketIO
 # tags:
 #  - Deep Learning
 date: '2018-07-27T00:00:00Z'
