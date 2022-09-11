@@ -1,6 +1,6 @@
 ---
 title: KVP Reader
-summary: A text data parser which converts Key Value Pair data into canonical format. Input stream can be either canonical or flat or canonical-flat mixed & output is always a canonical data stream.
+summary: 
 # tags:
 #  - Deep Learning
 date: '2013-07-27T00:00:00Z'
@@ -29,10 +29,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-**Tech Stack:**
-
-C
-
-**Summary:**
-
-A text data parser which converts Key Value Pair data into canonical format. Input stream can be either canonical or flat or canonical-flat mixed & output is always a canonical data stream.
