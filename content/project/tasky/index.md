@@ -1,6 +1,6 @@
 ---
 title: Tasky
-summary: _Node.js, Express.js, MongoDB, Elasticsearch, JWT, Mocha_ <br> A Node.js based REST API boilerplate for a custom task manager
+summary: _Node.js, Express.js, MongoDB, Elasticsearch, JWT, Mocha_ <br><br> A Node.js based REST API boilerplate for a custom task manager
 # tags:
 #  - Deep Learning
 date: '2017-05-31T00:00:00Z'

@@ -1,6 +1,6 @@
 ---
 title: Drishtipat
-summary: _Python, OpenCV, Numpy, Matplotlib_ <br> Implementation of different concepts/topics of Computer Vision
+summary: _Python, OpenCV, Numpy, Matplotlib_ <br><br> Implementation of different concepts/topics of Computer Vision
 # tags:
 # - Python
 date: '2020-06-27T00:00:00Z'
