@@ -1,9 +1,9 @@
 ---
-title: Ontorjal
-summary: Implementation of DNS client & Distance Vector Routing protocol.
+title: Tasky
+summary: _Node.js, Express.js, MongoDB, Elasticsearch, JWT, Mocha_ <br><br> A Node.js based REST API boilerplate for a custom task manager
 # tags:
 #  - Deep Learning
-date: '2019-11-27T00:00:00Z'
+date: '2017-05-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -17,7 +17,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/hasanmansur/Ontorjal'
+url_code: 'https://github.com/hasanmansur/Tasky'
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -29,10 +29,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-**Tech Stack:**
-
-Python
-
-**Summary:**
-
-Implementation of DNS client & Distance Vector Routing protocol.
