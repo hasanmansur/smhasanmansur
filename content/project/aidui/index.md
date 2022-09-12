@@ -1,6 +1,6 @@
 ---
 title: AidUI
-summary: AidUI, a novel automated approach to detect UI Dark Patterns.
+summary:  _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel automated approach for detecting deceptive UI designs to protect users from designs with malicious intent, and guide the developers in complying with the ethical design principles
 # tags:
 #  - Deep Learning
 date: '2022-04-27T00:00:00Z'
