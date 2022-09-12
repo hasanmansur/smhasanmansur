@@ -1,12 +1,12 @@
 ---
 title: Drishtipat
 summary: Implementation of different concepts/topics of Computer Vision | _Python, OpenCV, Numpy, Matplotlib_
-tags:
- - Python
+# tags:
+# - Python
 date: '2020-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/hasanmansur/Drishtipat'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -17,7 +17,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/hasanmansur/Drishtipat'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
