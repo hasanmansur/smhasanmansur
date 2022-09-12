@@ -29,10 +29,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-**Tech Stack:**
-
-Python
-
-**Summary:**
-
-Implementation of DNS client & Distance Vector Routing protocol.
