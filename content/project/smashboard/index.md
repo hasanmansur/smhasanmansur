@@ -1,6 +1,6 @@
 ---
 title: Smashboard
-summary: _Node.js, Express.js, MySQL, Redis, SocketIO_ <br><br> A CRM platform for social media query management and analytics
+summary: _Node.js, Express.js, MySQL, Redis, SocketIO_ <br> A CRM platform for social media query management and analytics
 # tags:
 #  - Deep Learning
 date: '2018-07-27T00:00:00Z'
@@ -27,5 +27,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 ---

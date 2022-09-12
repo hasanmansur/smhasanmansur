@@ -1,6 +1,6 @@
 ---
 title: KVP Reader
-summary: C, Python <br><br> A parser that converts a key-value pair input stream into a canonical output stream
+summary: C, Python <br> A parser that converts a key-value pair input stream into a canonical output stream
 # tags:
 #  - Deep Learning
 date: '2013-07-27T00:00:00Z'

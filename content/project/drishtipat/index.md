@@ -1,6 +1,6 @@
 ---
 title: Drishtipat
-summary: _Python, OpenCV, Numpy, Matplotlib_ <br><br> Implementation of different concepts/topics of Computer Vision
+summary: _Python, OpenCV, Numpy, Matplotlib_ <br> Implementation of different concepts/topics of Computer Vision
 # tags:
 # - Python
 date: '2020-06-27T00:00:00Z'
@@ -27,5 +27,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 ---

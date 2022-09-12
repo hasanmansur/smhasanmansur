@@ -1,6 +1,6 @@
 ---
 title: Ontorjal
-summary: _Python_ <br><br> Implementation of DNS client and Distance Vector Routing protocol
+summary: _Python_ <br> Implementation of DNS client and Distance Vector Routing protocol
 # tags:
 #  - Deep Learning
 date: '2019-11-27T00:00:00Z'
@@ -27,5 +27,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 ---

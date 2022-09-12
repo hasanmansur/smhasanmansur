@@ -1,6 +1,6 @@
 ---
 title: HE Business Manager
-summary: _AndroidSDK, Java_ <br><br> A native Android app for inventory management of healthcare products
+summary: _AndroidSDK, Java_ <br> A native Android app for inventory management of healthcare products
 # tags:
 #  - Deep Learning
 date: '2015-01-27T00:00:00Z'
@@ -27,5 +27,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 ---
