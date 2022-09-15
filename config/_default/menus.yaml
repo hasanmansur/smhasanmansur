@@ -19,6 +19,9 @@ main:
   - name: Awards
     url: '#awards'
     weight: 50
+  - name: Professional Services
+    url: '#services'
+    weight: 55
   - name: Skills
     url: '#skills'
     weight: 60
@@ -28,7 +31,7 @@ main:
   - name: Resume
     url: uploads/resume.pdf
     weight: 80
-    
+
 
 #   - name: Posts
 #     url: '#posts'
