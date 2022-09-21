@@ -22,6 +22,9 @@ main:
   - name: Professional Services
     url: '#services'
     weight: 55
+  - name: Volunteering
+    url: '#volunteering'
+    weight: 56
   - name: Skills
     url: '#skills'
     weight: 60
