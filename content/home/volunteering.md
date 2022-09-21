@@ -25,7 +25,7 @@ experience:
   - title: Co Mentor at Aspiring Scientists Summer Internship Program
     company: George Mason University
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: GMU, Virginia, USA
     date_start: '2022-05-01'
     date_end: '2022-08-01'
@@ -34,7 +34,7 @@ experience:
   - title: Director, Web Services
     company: Bangladeshi Graduate Students Association (BDGSA), GMU
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
     date_end: '2022-05-01'
@@ -44,7 +44,7 @@ experience:
   - title: General Member
     company: KIN, Shah Jalal University of Science & Technology
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: Bangladesh
     date_start: '2002-05-01'
     date_end: '2007-04-01'
