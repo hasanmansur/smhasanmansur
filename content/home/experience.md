@@ -24,17 +24,17 @@ date_format: Jan 2006
 experience:
   - title: Graduate Research Assistant
     company: SAGE Lab
-    company_url: 
+    company_url:
     company_logo: sage-lab
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
-    date_end: 
+    date_end:
     description: |2-
         - Working on research projects focused on developing automated approaches to help
         facilitate Ethical Software Design, Software Evolution, and Software Accessibility
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
-    company_url: 
+    company_url:
     company_logo: sage-lab
     location: GMU, Virginia, USA
     date_start: '2018-08-01'
@@ -44,8 +44,8 @@ experience:
         - Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns
   - title: Software Engineer
     company: Ice9 Interactive
-    company_url: 
-    company_logo: sage-lab
+    company_url:
+    company_logo: ice9
     location: Bangladesh
     date_start: '2017-04-01'
     date_end: '2018-07-01'
@@ -57,7 +57,7 @@ experience:
         - Assessed the capacity to deliver, formed sprints and released duration based development milestones
   - title: Software Engineer
     company: Synchronous ICT
-    company_url: 
+    company_url:
     company_logo: sage-lab
     location: Bangladesh
     date_start: '2015-02-01'
@@ -67,7 +67,7 @@ experience:
         - Documented technical specifications & maintained all reports pertaining to the development process
   - title: Software Engineer
     company: Dcastalia
-    company_url: 
+    company_url:
     company_logo: sage-lab
     location: Bangladesh
     date_start: '2013-08-01'
@@ -77,7 +77,7 @@ experience:
         - Collaborated with the server-side team to design the database & the APIs
   - title: Student Intern
     company: Daimler AG
-    company_url: 
+    company_url:
     company_logo: sage-lab
     location: Ulm, Germany
     date_start: '2012-10-01'
@@ -86,7 +86,7 @@ experience:
         - Developed a key-value pair parser for environment perception data
   - title: System Engineer
     company: Grameenphone Ltd
-    company_url: 
+    company_url:
     company_logo: sage-lab
     location: Bangladesh
     date_start: '2007-07-01'
