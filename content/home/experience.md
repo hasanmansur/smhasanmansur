@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
     date_end:
@@ -35,7 +35,7 @@ experience:
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: GMU, Virginia, USA
     date_start: '2018-08-01'
     date_end: '2021-05-01'
@@ -45,7 +45,7 @@ experience:
   - title: Software Engineer
     company: Ice9 Interactive
     company_url:
-    company_logo: ice9
+    company_logo:
     location: Bangladesh
     date_start: '2017-04-01'
     date_end: '2018-07-01'
@@ -58,7 +58,7 @@ experience:
   - title: Software Engineer
     company: Synchronous ICT
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: Bangladesh
     date_start: '2015-02-01'
     date_end: '2017-04-01'
@@ -68,7 +68,7 @@ experience:
   - title: Software Engineer
     company: Dcastalia
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: Bangladesh
     date_start: '2013-08-01'
     date_end: '2015-01-01'
@@ -78,7 +78,7 @@ experience:
   - title: Student Intern
     company: Daimler AG
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: Ulm, Germany
     date_start: '2012-10-01'
     date_end: '2013-07-01'
@@ -87,7 +87,7 @@ experience:
   - title: System Engineer
     company: Grameenphone Ltd
     company_url:
-    company_logo: sage-lab
+    company_logo:
     location: Bangladesh
     date_start: '2007-07-01'
     date_end: '2011-02-01'
