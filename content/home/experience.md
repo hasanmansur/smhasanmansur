@@ -45,7 +45,7 @@ experience:
   - title: Software Engineer
     company: Ice9 Interactive
     company_url:
-    company_logo: sage-lab
+    company_logo: ice9
     location: Bangladesh
     date_start: '2017-04-01'
     date_end: '2018-07-01'
