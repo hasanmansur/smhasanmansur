@@ -43,8 +43,10 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
-- CS PhD student with ​5+ years of professional experience in Software Development 
-- Working on research projects focused on developing automated approaches to help facilitate Ethical Software Design, Software Evolution, and Software     Accessibility
+- PhD student in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
+- Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
+- - Current research projects are focused on developing automated approaches to help facilitate Ethical Software Design, Software Evolution, and Software Accessibility
+- 5+ years of professional experience in Software Development
 - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
