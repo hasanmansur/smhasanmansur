@@ -39,7 +39,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2022-05-01'
     description: |2-
-        - Maintained BDGSA accounts in different social media platforms
+        - Acted as a member of the admin panel to maintain BDGSA's social media platform
         - Actively participated in arranging various social events
   - title: General Member
     company: KIN, Shah Jalal University of Science & Technology
