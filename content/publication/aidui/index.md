@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://static1.squarespace.com/static/53065911e4b0cca0183fc14a/t/5ded6c7f9778c378d7cf4a1e/1575840895324/Preprint+Coming+Soon.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
