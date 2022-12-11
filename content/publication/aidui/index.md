@@ -28,8 +28,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023*
-publication_short: *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023*
+publication: In *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023*
+publication_short: In *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023*
 
 abstract:
 
