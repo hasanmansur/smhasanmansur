@@ -1,6 +1,6 @@
 ---
 title: HE Business Manager
-summary: _AndroidSDK, Java_ <br><br> A native Android app for inventory management of healthcare products
+summary: _AndroidSDK, Java_ <br> A native Android app for inventory management of healthcare products
 # tags:
 #  - Deep Learning
 date: '2015-01-27T00:00:00Z'

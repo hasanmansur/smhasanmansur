@@ -1,6 +1,6 @@
 ---
 title: Ontorjal
-summary: _Python_ <br><br> Implementation of DNS client and Distance Vector Routing protocol
+summary: _Python_ <br> Implementation of DNS client and Distance Vector Routing protocol
 # tags:
 #  - Deep Learning
 date: '2022-12-15T00:00:00Z'
