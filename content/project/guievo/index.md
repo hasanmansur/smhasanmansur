@@ -1,5 +1,5 @@
 ---
-title: AidUI
+title: GuiEvo
 summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel automated approach to detect deceptive UI designs
 # tags:
 #  - Deep Learning
