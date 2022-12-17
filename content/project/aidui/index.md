@@ -1,6 +1,6 @@
 ---
-title: Tasky
-summary: _Node.js, Express.js, MongoDB, Elasticsearch, JWT, Mocha_ <br><br> A Node.js based REST API boilerplate for a custom task manager
+title: AidUI
+summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel automated approach to detect deceptive UI designs
 # tags:
 #  - Deep Learning
 date: '2017-05-31T00:00:00Z'
@@ -17,7 +17,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/hasanmansur/Tasky'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
