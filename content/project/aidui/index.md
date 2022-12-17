@@ -1,6 +1,6 @@
 ---
 title: AidUI
-summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel automated approach to detect deceptive UI designs
+summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br> A novel automated approach to detect deceptive UI designs
 tags:
   - Research Project
 date: '2022-12-17T00:00:00Z'
