@@ -1,7 +1,6 @@
 ---
 title: GuiEvo
-summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel approach to detect GUI changes between existing releases and proposed mock-ups,
-and generate updated GUI metadata for the new release
+summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel approach to detect GUI changes
 # tags:
 #  - Deep Learning
 date: '2017-05-31T00:00:00Z'
