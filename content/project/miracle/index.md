@@ -1,6 +1,6 @@
 ---
 title: MIRACLE
-summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel approach to detect GUI changes between existing releases
+summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel approach to detect motor-impairment accessibility violations in apps
 # tags:
 #  - Deep Learning
 date: '2017-05-31T00:00:00Z'
