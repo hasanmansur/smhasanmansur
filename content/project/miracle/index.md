@@ -1,9 +1,9 @@
 ---
-title: Smashboard
-summary: _Node.js, Express.js, MySQL, Redis, SocketIO_ <br><br> A CRM platform for social media query management and analytics
+title: AidUI
+summary: _Python, PyTorch, OpenCV, spaCy, FRCNN_ <br><br> A novel automated approach to detect deceptive UI designs
 # tags:
 #  - Deep Learning
-date: '2018-07-27T00:00:00Z'
+date: '2017-05-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
