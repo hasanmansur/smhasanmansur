@@ -29,7 +29,7 @@ item:
     description: ''
     organization: NSF
     organization_url:
-    title: NSF Travel Award for ICSE 2023
+    title: NSF Travel Award for ICSE
     url: ''
   - certificate_url:
     date_end: '2019-08-24'
