@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2023-04-11'
     description: ''
-    organization: NSF
+    organization: The National Science Foundation, USA
     organization_url:
-    title: NSF Travel Award
+    title: NSF Travel Award for ICSE'23
     url: ''
   - certificate_url:
     date_end: '2019-08-24'
