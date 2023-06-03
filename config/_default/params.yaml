@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  #theme_night: minimal
   font: minimal
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} S M Hasan Mansur.'
+    notice: '© {2023} S M Hasan Mansur.'
     license:
       enable: false
       allow_derivatives: false
