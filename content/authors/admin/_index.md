@@ -7,7 +7,6 @@ interests:
   - Software Engineering
   - Human Computer Interaction
   - Machine Learning
-  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
