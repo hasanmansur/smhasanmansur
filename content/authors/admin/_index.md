@@ -35,6 +35,9 @@ education:
     - course: PhD student in CS
       institution: George Mason University
       year: 2018 - Present
+    - course: MS in CS
+      institution: George Mason University
+      year: 2018 - 2022
     - course: BS in CS
       institution: Shah Jalal University of Science & Technology, Bangladesh
       year: 2002 - 2007
