@@ -26,8 +26,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023): Companion Proceedings (ICSE-Companion), Melbourne, Australia, May 14th-20th, 2023*
-publication_short: In *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023): Companion Proceedings (ICSE-Companion), Melbourne, Australia, May 14th-20th, 2023*
+publication: fskfhshfshfkfkhs
+publication_short: skfhskfhskfkfkshfkh
 
 abstract: skfhskfhskfkfkshfkh
 
