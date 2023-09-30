@@ -26,7 +26,7 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: fskfhshfshfkfkhs
+publication: In *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023) Companion Proceedings (ICSE-Companion), Melbourne, Australia, May 14th-20th, 2023*
 publication_short: In *The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023) Companion Proceedings (ICSE-Companion), Melbourne, Australia, May 14th-20th, 2023*
 
 abstract: Past studies have illustrated the prevalence of UI dark patterns, or user interfaces that can lead end-users toward (unknowingly) taking actions that they may not have intended. Such deceptive UI designs can be either intentional (to benefit an online service) or unintentional (through complicit design practices) and can result in adverse effects on end users, such as oversharing personal information or financial loss. While significant research progress has been made toward the development of dark pattern taxonomies across different software domains, developers and users currently lack the guidance to help recognize, avoid, and navigate these often subtle design motifs. However, automated recognition of dark patterns is a challenging task, as the instantiation of a single type of pattern can take many forms, leading to significant variability. This paper depicts promising results from preliminary work that inspire towards addressing this problem and proposes a comprehensive research agenda that is aimed at implementing a developer-facing automated tool to support ethical GUI design.
