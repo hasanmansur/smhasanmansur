@@ -28,7 +28,7 @@ content:
   email: smhasanmansur@gmail.com
   phone: +15713545264
   address:
-    street: 3141 Bayswater Ct
+    street: 9527 Blake Ln Apt 103
     city: Fairfax
     region: VA
     postcode: '22031'
@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: ''
     longitude: ''
-  directions: 
+  directions:
   office_hours:
   appointment_url: ''
   contact_links:
