@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024), Lisbon, Portugal, April 14th-20th, 2024, to appear*
 publication_short: In *The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024), Lisbon, Portugal, April 14th-20th, 2024, to appear*
 
-abstract: Recent research has begun to examine the potential of automatically finding and fixing accessibility issues that manifest in software. 
+abstract: Recent research has begun to examine the potential of automatically finding and fixing accessibility issues that manifest in software. However, while recent work makes important progress, it has generally been skewed toward identifying issues that affect users with certain disabilities, such as those with visual or hearing impairments. However there are other groups of users with 
 
 
 # Summary. An optional shortened abstract.
