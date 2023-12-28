@@ -56,5 +56,6 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-- External Reviewer: ICSE'23, SANER'23, ASE'22, SANER'22, ICPC'21, ICSE'21, MSR'21
+- Junior PC Member: MSR'24
 - Co-Reviewer: MSR'22
+- External Reviewer: ICSE'23, SANER'23, ASE'22, SANER'22, ICPC'21, ICSE'21, MSR'21
