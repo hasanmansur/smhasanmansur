@@ -37,10 +37,10 @@ education:
       year: 2018 - Present
     - course: MS in CS
       institution: George Mason University
-      year: 2018 - 2022
+      year: 2023
     - course: BS in CS
       institution: Shah Jalal University of Science & Technology, Bangladesh
-      year: 2002 - 2007
+      year: 2007
 email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
