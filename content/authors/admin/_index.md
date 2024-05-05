@@ -2,11 +2,13 @@
 title: S M Hasan Mansur
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: My research interests include Software Engineering, Human Computer Interaction and Machine Learning.
+bio: My research interests include Software Engineering, HCI, Machine Learning, Generative AI, Large Language Model (LLM).
 interests:
   - Software Engineering
-  - Human Computer Interaction
+  - Human Computer Interaction (HCI)
   - Machine Learning
+  - Generative AI
+  - Large Language Model (LLM)
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,10 +47,13 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
-- PhD student in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
+- PhD candidate in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
+- Research focus “Automated Software Engineering via Multimodal Machine Learning”
 - Current research projects are focused on developing automated approaches to help facilitate Ethical Software Design, Software Evolution, and Software Accessibility
-- 5+ years of professional experience in Software Development
+- 5+ years of professional software engineering experience
+- Publication track record in top-tier SWE venues
+- Open to relocation and have US work authorization
 <!-- - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
