@@ -30,8 +30,10 @@ experience:
     date_start: '2021-05-01'
     date_end:
     description: |2-
-        - Working on research projects focused on developing automated approaches to help
-        facilitate Ethical Software Design, Software Evolution, and Software Accessibility
+        - Currently developing a multimodal model (vision-code-language) for code summarization.
+        - Designed and developed AidUI, an automated approach to detect deceptive UI designs.
+        - Co-contributor of MotorEase, an approach to detect motor-impairment accessibility violations in apps.
+        - Co-contributor of GUIEvo, an approach to update UI code by detecting changes between existing and proposed designs.
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
     company_url:
@@ -40,8 +42,8 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-05-01'
     description: |2-
-        - Mentored CS undergrad students for the “Database Systems”, “Introduction to Computer Programming” and "Computer Vision" courses
-        - Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns
+        - Mentored CS undergrad students for the “Database Systems”, “Introduction to Computer Programming” and "Computer Vision" courses.
+        - Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns.
   - title: Software Engineer
     company: Ice9 Interactive
     company_url:
@@ -50,11 +52,8 @@ experience:
     date_start: '2017-04-01'
     date_end: '2018-07-01'
     description: |2-
-        - Worked on the engineering and infrastructure team responsible for developing social media query and analytics platforms of project  
-        'smashboard.co'
-        - Implemented master-replica architecture to resolve the synchronization delay of real time queries from social platforms
-        - Established standard software engineering practices like version controlling, issue & project tracking
-        - Assessed the capacity to deliver, formed sprints and released duration based development milestones
+        - Core engineering team member to develop social media query and analytics platforms of project 'smashboard.co'.
+        - Optimized database and implemented master-replica architecture to resolve the sync delay of real time queries.
   - title: Software Engineer
     company: Synchronous ICT
     company_url:
@@ -63,8 +62,10 @@ experience:
     date_start: '2015-02-01'
     date_end: '2017-04-01'
     description: |2-
-        - Lead the backend engineering team responsible for developing user management and search platforms of project 'ComX
-        - Documented technical specifications & maintained all reports pertaining to the development process
+        - Lead the engineering team to develop user management and search platforms of in-house project 'ComX'.
+        - Assessed the capacity to deliver, formed sprints and released duration based development milestones.
+        - Established standard software engineering practices like version controlling, issue & project tracking.
+        - Documented technical specifications & maintained all reports pertaining to the development process.
   - title: Software Engineer
     company: Dcastalia
     company_url:
@@ -73,8 +74,8 @@ experience:
     date_start: '2013-08-01'
     date_end: '2015-01-01'
     description: |2-
-        - Developed and published native Android application 'HE Business Manager'
-        - Collaborated with the server-side team to design the database & the APIs
+        - Developed and published native Android application 'HE Business Manager'.
+        - Collaborated with the server-side team to design the database & the APIs.
   - title: Student Intern
     company: Daimler AG
     company_url:
@@ -83,7 +84,7 @@ experience:
     date_start: '2012-10-01'
     date_end: '2013-07-01'
     description: |2-
-        - Developed a key-value pair parser for environment perception data
+        - Developed a key-value pair parser for environment perception data.
   - title: System Engineer
     company: Grameenphone Ltd
     company_url:
@@ -92,8 +93,8 @@ experience:
     date_start: '2007-07-01'
     date_end: '2011-02-01'
     description: |2-
-        - Member of the transmission optimization team to serve over 20 million users
-        - Analysed detected alarms, classified probable causes, and fixed or escalated issues to the concerned stakeholders
+        - Member of the transmission optimization team to serve over 20 million users.
+        - Analysed detected alarms, classified probable causes, and fixed or escalated issues to the concerned stakeholders.
 
 design:
   columns: '2'
