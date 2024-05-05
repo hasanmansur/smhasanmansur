@@ -56,7 +56,13 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-- Junior PC Member: International Conference on Mining Software Repositories (MSR) 2024
-- Co-Reviewer: International Conference on Mining Software Repositories (MSR) 2022
+- Junior PC Member:
+  - International Conference on Mining Software Repositories (MSR) 2024
+- Co-Reviewer:
+  - International Conference on Mining Software Repositories (MSR) 2022
 - External Reviewer:
-  - ICSE'23, SANER'23, ASE'22, SANER'22, ICPC'21, ICSE'21, MSR'21
+  - International Conference on Software Engineering (ICSE) 2023, 2021
+  - International Conference on Software Analysis, Evolution and Reengineering (SANER) 2023, 2022
+  - International Conference on Automated Software Engineering (ASE) 2022
+  - International Conference on Mining Software Repositories (MSR) 2021
+  - International Conference on Program Comprehension (ICPC) 2021
