@@ -56,9 +56,7 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-- Python, Javascript, Java, C
-- PyTorch, OpenCV, spaCy
-- Node.js, Express.js
-- MySQL, MongoDB, Redis, Elasticsearch
-- Git, Docker, AWS: EC2, RDS, S3
-- REST API, Microservices, Test Driven Development
+- **Languages**: Python, Javascript, Java, C
+- **Frameworks / Libraries**: Node.js, Express.js, REST API, PyTorch, OpenCV, NumPy, spaCy, Socket.IO
+- **Databases**: MySQL, MongoDB, Redis, Elasticsearch,SQLite
+- **Tools / Platforms**: Git, Docker, AWS, Hugging Face
