@@ -25,7 +25,8 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: smhasanmansur@gmail.com, smansur4@gmu.edu
+  email: smhasanmansur@gmail.com
+  email: smansur4@gmu.edu
   phone:
   address:
     street:
