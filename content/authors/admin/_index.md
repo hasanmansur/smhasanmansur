@@ -49,8 +49,7 @@ highlight_name: true
 ---
 - PhD candidate in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- Research focus “Automated Software Engineering via Multimodal Machine Learning”
-- Current research projects are focused on developing automated approaches to help facilitate Ethical Software Design, Software Evolution, and Software Accessibility
+- Research focus “*Automated Software Engineering via Multimodal Machine Learning*”
 - 5+ years of professional software engineering experience
 - Publication track record in top-tier SWE venues
 - Open to relocation and have US work authorization
