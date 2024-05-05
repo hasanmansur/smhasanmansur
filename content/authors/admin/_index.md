@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD student in CS
       institution: George Mason University
-      year: 2018 - Present
+      year: 2018 - 2024 (expected)
     - course: MS in CS
       institution: George Mason University
       year: 2023
