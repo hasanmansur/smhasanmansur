@@ -34,7 +34,7 @@ organizations:
     name: George Mason University
 education:
   courses:
-    - course: PhD student in CS
+    - course: PhD candidate in CS
       institution: George Mason University
       year: 2018 - 2024 (expected)
     - course: MS in CS
@@ -47,12 +47,12 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
-- PhD candidate in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
+- **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- Research focus “*Automated Software Engineering via Multimodal Machine Learning*”
-- 5+ years of professional software engineering experience
-- Publication track record in top-tier SWE venues
-- Open to relocation and have US work authorization
+- **Research focus** “*Automated Software Engineering via Multimodal Machine Learning*”
+- 5+ years of **professional** software engineering experience
+- **Publication** track record in top-tier SWE venues
+- Open to relocation and have **US work authorization**
 <!-- - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
