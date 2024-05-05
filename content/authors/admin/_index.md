@@ -47,6 +47,7 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
+### 👋 Looking for Research/SWE positions 👋
 - **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
 - **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
@@ -58,9 +59,9 @@ highlight_name: true
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
 - Passionate about building deep learning models. Good working knowledge with PyTorch, OpenCV, NumPy, pandas, spaCy -->
 
-I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-)
+<!-- I enjoy working for solving real life problems, and not opinionated on tools and technology stack. I am a self motivated & well organized team player. When I am not working - I am a complete family man. I like to watch movies, read books and play with my kid :-) -->
 
 <!-- If you think of me as a cultural fit, please connect with me through this profile or drop me an email at smhasanmansur@gmail.com. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
