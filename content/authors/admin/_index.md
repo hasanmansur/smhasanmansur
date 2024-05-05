@@ -1,6 +1,6 @@
 ---
 title: S M Hasan Mansur
-role: PhD Student
+role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include Software Engineering, HCI, Machine Learning, Generative AI, Large Language Model (LLM).
 interests:
