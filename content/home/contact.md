@@ -25,15 +25,15 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: smhasanmansur@gmail.com
-  phone: +15713545264
+  email: smhasanmansur@gmail.com, smansur4@gmu.edu
+  phone:
   address:
-    street: 9527 Blake Ln Apt 103
-    city: Fairfax
-    region: VA
-    postcode: '22031'
-    country: United States
-    country_code: US
+    street:
+    city:
+    region:
+    postcode: ''
+    country:
+    country_code:
   coordinates:
     latitude: ''
     longitude: ''
