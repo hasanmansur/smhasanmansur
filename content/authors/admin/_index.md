@@ -48,6 +48,9 @@ superuser: true
 highlight_name: true
 ---
 ### 👋 Looking for Research/SWE positions 👋
+
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 - **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
 - **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
@@ -64,4 +67,3 @@ highlight_name: true
 <!-- If you think of me as a cultural fit, please connect with me through this profile or drop me an email at smhasanmansur@gmail.com. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
