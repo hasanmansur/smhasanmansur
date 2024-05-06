@@ -50,9 +50,7 @@ item:
   - certificate_url:
     date_end: '2020-08-31'
     date_start: '2020-02-01'
-    description:
-    - Implementation of DNS client & Distance Vector Routing protocol.
-    - Implementation of DNS client & Distance Vector Routing protocol.
+    description: Implementation of DNS client & Distance Vector Routing protocol.
     organization: Personal Open Source | Principal contributor | https://github.com/hasanmansur/Ontorjal
     organization_url: ''
     title: Ontorjal
@@ -64,7 +62,15 @@ item:
     organization: Ice9.co | Co-contributor | smashboard.co
     organization_url: ''
     title: smashboard.co
-    url: ''  
+    url: ''
+  - certificate_url:
+    date_end: '2015-01-31'
+    date_start: '2013-08-01'
+    description: A native Android app for inventory management of healthcare products.
+    organization: DCastalia | Principal contributor
+    organization_url: ''
+    title: HE Business Manager
+    url: ''
 
 
 design:
