@@ -27,10 +27,10 @@ item:
     date_end: ''
     date_start: '2023-04-11'
     description: ''
-    organization: The National Science Foundation, USA
+    organization: https://github.com/SageSELab/AidUI
     organization_url: ''
     title: AidUI
-    url: 'https://github.com/SageSELab/AidUI'
+    url: ''
   - certificate_url:
     date_end: '2019-08-24'
     date_start: '2019-05-25'
