@@ -26,7 +26,7 @@ item:
   - certificate_url:
     date_end: '2022-12-31'
     date_start: '2021-01-01'
-    description: A novel automated approach to detect deceptive UI designs, aka Dark Patterns.'
+    description: A novel automated approach to detect deceptive UI designs, aka Dark Patterns.
     organization: Principal contributor | https://github.com/SageSELab/AidUI
     organization_url: ''
     title: AidUI
@@ -34,10 +34,18 @@ item:
   - certificate_url:
     date_end: '2023-05-31'
     date_start: '2022-05-01'
-    description: A novel automated approach to detect motor-impairment accessibility violations in apps.'
+    description: A novel automated approach to detect motor-impairment accessibility violations in apps.
     organization: Co-contributor | https://github.com/SageSELab/MotorEase
     organization_url: ''
     title: MotorEase
+    url: ''
+  - certificate_url:
+    date_end: '2022-12-31'
+    date_start: '2022-08-01'
+    description: Implementation of different Computer Vision concepts.
+    organization: _Personal Open Source Project_ | _Principal contributor_ | https://github.com/hasanmansur/Drishtipat
+    organization_url: ''
+    title: Drishtipat
     url: ''  
 
 
