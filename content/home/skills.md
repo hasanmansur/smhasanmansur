@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Technical Skills
+title: Tech Skills
 subtitle:
 
 # Showcase personal skills or business features.
