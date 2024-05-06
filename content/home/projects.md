@@ -71,6 +71,14 @@ item:
     organization_url: ''
     title: HE Business Manager
     url: ''
+  - certificate_url:
+    date_end: '2013-07-31'
+    date_start: '2012-10-01'
+    description: A parser that converts the key-value pair input stream (environment perception data) into a canonical format.
+    organization: Daimler AG, Germany | Principal contributor
+    organization_url: ''
+    title: KVP Reader
+    url: ''
 
 
 design:
