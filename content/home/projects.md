@@ -27,7 +27,7 @@ item:
     date_end: '2022-12-31'
     date_start: '2021-01-01'
     description: A novel automated approach to detect deceptive UI designs, aka Dark Patterns.
-    organization: Principal contributor | https://github.com/SageSELab/AidUI
+    organization: SAGE Lab | Principal contributor | https://github.com/SageSELab/AidUI
     organization_url: ''
     title: AidUI
     url: ''
@@ -35,7 +35,7 @@ item:
     date_end: '2023-05-31'
     date_start: '2022-05-01'
     description: A novel automated approach to detect motor-impairment accessibility violations in apps.
-    organization: Co-contributor | https://github.com/SageSELab/MotorEase
+    organization: SAGE Lab | Co-contributor | https://github.com/SageSELab/MotorEase
     organization_url: ''
     title: MotorEase
     url: ''
@@ -50,7 +50,9 @@ item:
   - certificate_url:
     date_end: '2020-08-31'
     date_start: '2020-02-01'
-    description: Implementation of DNS client & Distance Vector Routing protocol.
+    description:
+    - Implementation of DNS client & Distance Vector Routing protocol.
+    - Implementation of DNS client & Distance Vector Routing protocol.
     organization: Personal Open Source | Principal contributor | https://github.com/hasanmansur/Ontorjal
     organization_url: ''
     title: Ontorjal
@@ -59,7 +61,7 @@ item:
     date_end: '2018-07-31'
     date_start: '2017-04-01'
     description: A CRM platform for social media query management and analytics.
-    organization: Project @ Ice9.co | Co-contributor | smashboard.co
+    organization: Ice9.co | Co-contributor | smashboard.co
     organization_url: ''
     title: smashboard.co
     url: ''  
