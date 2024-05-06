@@ -32,37 +32,14 @@ item:
     title: AidUI
     url: ''
   - certificate_url:
-    date_end: '2019-08-24'
-    date_start: '2019-05-25'
-    description: ''
-    organization: Dept. of Computer Science, George Mason University
-    organization_url:
-    title: Ontorjal
-    url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '2022-05-11'
-    description: ''
-    organization: CS Research Symposium 2022, George Mason University
-    organization_url:
-    title: KVPReader
-    url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '1999-09-01'
-    description: ''
-    organization: Secondary School Certificate Examination, National Education Board of Bangladesh
-    organization_url:
-    title: National Education Board Scholarship
-    url: ''
-  - certificate_url:
-    date_end: ''
-    date_start: '2001-09-01'
-    description: ''
-    organization: Higher Secondary School Certificate Examination, National Education Board of Bangladesh
-    organization_url:
-    title: National Education Board Scholarship
-    url: ''
+    date_end: '2023-05-31'
+    date_start: '2022-05-01'
+    description: 'MotorEase, a novel automated approach that adapts computer vision and text processing techniques to enable a semantic understanding of app UI screens, enabling the detection of violations related to four popular, previously unexplored UI design guidelines that support motor-impaired users, including: (i) visual touch target size, (ii) expanding sections, (iii) persisting elements, and (iv) adjacent icon visual distance.'
+    organization: https://github.com/SageSELab/MotorEase
+    organization_url: ''
+    title: MotorEase
+    url: ''  
+
 
 design:
   columns: '2'
