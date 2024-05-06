@@ -8,9 +8,9 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 15
 
-title: Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.

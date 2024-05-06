@@ -10,6 +10,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
+  - name: Technical Skills
+    url: '#skills'
+    weight: 15
   - name: Publications
     url: '#publications'
     weight: 30
@@ -25,9 +28,6 @@ main:
   - name: Volunteering
     url: '#volunteering'
     weight: 56
-  - name: Skills
-    url: '#skills'
-    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
