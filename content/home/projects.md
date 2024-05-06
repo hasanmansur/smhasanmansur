@@ -40,10 +40,10 @@ item:
     title: MotorEase
     url: ''
   - certificate_url:
-    date_end: '2022-12-31'
-    date_start: '2022-08-01'
-    description: Implementation of different Computer Vision concepts.
-    organization: _Personal Open Source Project_ | _Principal contributor_ | https://github.com/hasanmansur/Drishtipat
+    date_end: '2020-08-31'
+    date_start: '2020-02-01'
+    description: Implementation of different Computer Vision concepts like Image Transformations, Histogram Analysis, Gradients, Edge Detection, Feature Extraction, Curvature & Distance Transform Computation, Chamfer matching, Stereo Matching, Disparity, Belief Propagation.
+    organization: Personal Open Source Project | Principal contributor | https://github.com/hasanmansur/Drishtipat
     organization_url: ''
     title: Drishtipat
     url: ''  
