@@ -31,6 +31,7 @@ experience:
     date_end:
     description: |2-
         - Currently developing a multimodal model (vision-code-language) for code summarization.
+        - Fine-tuning and applying large language models (LLMs) for software engineering tasks.
         - Designed and developed AidUI, an automated approach to detect deceptive UI designs.
         - Co-contributor of MotorEase, an approach to detect motor-impairment accessibility violations in apps.
         - Co-contributor of GUIEvo, an approach to update UI code by detecting changes between existing and proposed designs.
