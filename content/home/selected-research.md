@@ -27,7 +27,7 @@ experience:
     company_url:
     company_logo:
     location: Published in
-    date_start: ''
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
         - sfsfsfsf
