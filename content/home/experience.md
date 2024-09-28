@@ -22,22 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Graduate Teaching Assistant
-  company: Dept. of Computer Science
-  company_url:
-  company_logo:
-  location: GMU, Virginia, USA
-  date_start: '2024-08-01'
-  date_end: ''
-  description: |2-
-      - Mentored students, graded assignments, and proctored exams. Courses: Formal Methods.
+  - title: Graduate Teaching Assistant
+    company: Dept. of Computer Science
+    company_url:
+    company_logo:
+    location: GMU, Virginia, USA
+    date_start: '2024-08-25'
+    date_end: ''
+    description: |2-
+        - Mentored students, graded assignments, and proctored exams. Course: Formal Methods.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
     company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
-    date_end: '2021-08-31'
+    date_end: '2021-08-24'
     description: |2-
         - Areas of Contribution: Ethical Software Design, Software Evolution, Software Accessibility and Software Documentation.
         - Currently leading a research project aimed toward developing a multimodal model (vision‑code‑comment) for code summarization.
