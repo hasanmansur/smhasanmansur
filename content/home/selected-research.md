@@ -30,7 +30,7 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
-        - [paper link](https://arxiv.org/abs/2303.06782), [project repo](https://github.com/SageSELab/AidUI).
+        - sfsfsfsf
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
