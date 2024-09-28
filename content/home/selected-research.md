@@ -26,7 +26,7 @@ experience:
     company: Principal Contributor | SAGE LAB, UCF
     company_url:
     company_logo:
-    location: Published in ICSE23
+    location: Published in
     date_start: ''
     date_end: ''
     description: |2-
