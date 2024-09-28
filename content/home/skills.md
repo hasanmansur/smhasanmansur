@@ -56,7 +56,8 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-- **Languages**: Python, Javascript, Java, C
-- **Frameworks / Libraries**: Node.js, Express.js, REST API, PyTorch, OpenCV, NumPy, spaCy, Socket.IO
+- **Programming**: Python, Javascript, Java, C
 - **Databases**: MySQL, MongoDB, Redis, Elasticsearch, SQLite
-- **Tools / Platforms**: Git, Docker, AWS, Hugging Face
+- **Libraries**: OpenCV, NumPy, Matplotlib, Pandas, Socket.IO
+- **ML/DL/NLP**: Transformer, LLM finetuning, PyTorch, Hugging Face, scikit‐learn, spaCy
+- **Backend/Cloud/DevOps**: Node.js, Express.js, REST API, AWS, Docker, Git

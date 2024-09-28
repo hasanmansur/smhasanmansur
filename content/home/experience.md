@@ -28,13 +28,14 @@ experience:
     company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
-    date_end:
+    date_end: '2021-08-31'
     description: |2-
-        - Currently developing a multimodal model (vision-code-language) for code summarization.
-        - Fine-tuning and applying large language models (LLMs) for software engineering tasks.
-        - Designed and developed AidUI, an automated approach to detect deceptive UI designs.
-        - Co-contributor of MotorEase, an approach to detect motor-impairment accessibility violations in apps.
-        - Co-contributor of GUIEvo, an approach to update UI code by detecting changes between existing and proposed designs.
+        - Areas of Contribution:Ethical Software Design, Software Evolution, Software Accessibility and Software Documentation.
+        - Currently leading a research project aimed toward developing a multimodal model (vision‑code‑comment) for code summarization.
+        - Designed and developed AidUI, an automated approach to detect and localize deceptive design patterns on UIs.
+        - Co‑contributor of MotorEase, an approach to detect motor‑impairment accessibility violations in app UIs.
+        - Co‑contributor of GUIEvo, an approach to update UI code by detecting changes between existing and proposed designs.
+        - Collaborated in developing datasets to serve as benchmarks for Bug Reporting and Bug Localization.
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
     company_url:
