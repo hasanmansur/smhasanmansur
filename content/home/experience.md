@@ -77,7 +77,7 @@ experience:
     date_start: '2015-02-01'
     date_end: '2017-04-01'
     description: |2-
-        - Lead the engineering team to develop user management and search platforms of in-house project 'ComX'.
+        - Lead the team to develop user management, search and notification platforms of project COMX, an in‑house application framework.
         - Assessed the capacity to deliver, formed sprints and released duration based development milestones.
         - Established standard software engineering practices like version controlling, issue & project tracking.
         - Documented technical specifications & maintained all reports pertaining to the development process.
@@ -89,17 +89,17 @@ experience:
     date_start: '2013-08-01'
     date_end: '2015-01-01'
     description: |2-
-        - Developed and published native Android application 'HE Business Manager'.
-        - Collaborated with the server-side team to design the database & the APIs.
+        - Developed and published HE BUSINESS MANAGER, a native Android app for inventory management of healthcare products.
+        - Collaborated with the backend team on requirements analysis, architecture design, development, testing and deployment.
   - title: Student Intern
-    company: Daimler AG
+    company: Mercedes‑Benz Group AG (former Daimler AG)
     company_url:
     company_logo:
     location: Ulm, Germany
     date_start: '2012-10-01'
     date_end: '2013-07-01'
     description: |2-
-        - Developed a key-value pair parser for environment perception data.
+        - Developed a KVP (key‑value pair) parser to convert the unstructured stream of environment perception data into a canonical form.
   - title: System Engineer
     company: Grameenphone Ltd
     company_url:
@@ -108,7 +108,7 @@ experience:
     date_start: '2007-07-01'
     date_end: '2011-02-01'
     description: |2-
-        - Member of the transmission optimization team to serve over 20 million users.
+        - Member of the transmission network configuration and optimization team to serve over 20 million mobile users.
         - Analysed detected alarms, classified probable causes, and fixed or escalated issues to the concerned stakeholders.
 
 design:
