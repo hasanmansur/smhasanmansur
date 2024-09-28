@@ -13,6 +13,9 @@ main:
   - name: Tech Skills
     url: '#skills'
     weight: 15
+  - name: Selected Research
+    url: '#selected-research'
+    weight: 15
   - name: Publications
     url: '#publications'
     weight: 30
