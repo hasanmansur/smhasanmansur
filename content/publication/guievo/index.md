@@ -47,11 +47,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3643991.3644936'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://github.com/SageSELab/GuiEvo'
 url_slides: ''
 url_source: ''
 url_video: ''
