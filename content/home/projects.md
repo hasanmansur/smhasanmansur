@@ -24,22 +24,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url:
-    date_end: '2022-12-31'
-    date_start: '2021-01-01'
-    description: A novel automated approach to detect deceptive UI designs, aka Dark Patterns.
-    organization: SAGE Lab | Principal contributor | https://github.com/SageSELab/AidUI
-    organization_url: ''
-    title: AidUI
-    url: ''
-  - certificate_url:
-    date_end: '2023-05-31'
-    date_start: '2022-05-01'
-    description: A novel automated approach to detect motor-impairment accessibility violations in apps.
-    organization: SAGE Lab | Co-contributor | https://github.com/SageSELab/MotorEase
-    organization_url: ''
-    title: MotorEase
-    url: ''
-  - certificate_url:
     date_end: '2020-08-31'
     date_start: '2020-02-01'
     description: Implementation of different Computer Vision concepts.
@@ -62,22 +46,6 @@ item:
     organization: Ice9.co | Co-contributor | smashboard.co
     organization_url: ''
     title: smashboard.co
-    url: ''
-  - certificate_url:
-    date_end: '2015-01-31'
-    date_start: '2013-08-01'
-    description: A native Android app for inventory management of healthcare products.
-    organization: DCastalia | Principal contributor
-    organization_url: ''
-    title: HE Business Manager
-    url: ''
-  - certificate_url:
-    date_end: '2013-07-31'
-    date_start: '2012-10-01'
-    description: A parser that converts the key-value pair input stream (environment perception data) into a canonical format.
-    organization: Daimler AG, Germany | Principal contributor
-    organization_url: ''
-    title: KVP Reader
     url: ''
 
 
