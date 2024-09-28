@@ -26,9 +26,7 @@ item:
   - certificate_url:
     date_end: '2022-12-31'
     date_start: '2021-01-01'
-    description:
-      - A novel automated approach to detect deceptive UI designs, aka Dark Patterns.
-      - A novel automated approach to detect deceptive UI designs, aka Dark Patterns.
+    description: A novel automated approach to detect deceptive UI designs, aka Dark Patterns.
     organization: SAGE Lab | Principal contributor | https://github.com/SageSELab/AidUI
     organization_url: ''
     title: AidUI
