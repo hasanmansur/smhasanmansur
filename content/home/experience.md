@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Graduate Teaching Assistant
+  company: Dept. of Computer Science
+  company_url:
+  company_logo:
+  location: GMU, Virginia, USA
+  date_start: '2024-08-01'
+  date_end: ''
+  description: |2-
+      - Mentored students, graded assignments, and proctored exams. Courses: Formal Methods.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
@@ -30,7 +39,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-08-31'
     description: |2-
-        - Areas of Contribution:Ethical Software Design, Software Evolution, Software Accessibility and Software Documentation.
+        - Areas of Contribution: Ethical Software Design, Software Evolution, Software Accessibility and Software Documentation.
         - Currently leading a research project aimed toward developing a multimodal model (vision‑code‑comment) for code summarization.
         - Designed and developed AidUI, an automated approach to detect and localize deceptive design patterns on UIs.
         - Co‑contributor of MotorEase, an approach to detect motor‑impairment accessibility violations in app UIs.
@@ -44,8 +53,7 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-05-01'
     description: |2-
-        - Mentored CS undergrad students for the “Database Systems”, “Introduction to Computer Programming” and "Computer Vision" courses.
-        - Assisted the course instructor to grade assignments and projects. Proctored exams and resolved student concerns.
+        - Mentored students, graded assignments, and proctored exams. Courses: Python Programming, Database, Computer Vision.
   - title: Software Engineer
     company: Ice9 Interactive
     company_url:
