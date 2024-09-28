@@ -38,7 +38,7 @@ experience:
     company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
-    date_end: '2021-08-24'
+    date_end: '2024-08-24'
     description: |2-
         - Areas of Contribution: Ethical Software Design, Software Evolution, Software Accessibility and Software Documentation.
         - Currently leading a research project aimed toward developing a multimodal model (vision‑code‑comment) for code summarization.
@@ -57,15 +57,18 @@ experience:
         - Mentored students, graded assignments, and proctored exams.
         - Courses: Python Programming, Database, Computer Vision.
   - title: Software Engineer
-    company: Ice9 Interactive
+    company: Ice9 Ltd.
     company_url:
     company_logo:
     location: Bangladesh
     date_start: '2017-04-01'
     date_end: '2018-07-01'
     description: |2-
-        - Core engineering team member to develop social media query and analytics platforms of project 'smashboard.co'.
-        - Optimized database and implemented master-replica architecture to resolve the sync delay of real time queries.
+        - Member of the core engineering team responsible for the development and maintenance of SMASHBOARD.CO, a social CRM product.
+        - Collaborated with the Technical Lead on strategic planning and decision‑making for architecture design, development, testing and deployment.
+        - Lead the development and integration of social media query management and analytics module for INSTAGRAM.
+        - Optimized database and implemented master‑replica architecture to resolve the sync delay of real time social queries.
+        - Collaborated in implementing the migration of the core product from Rackspace to AWS.
   - title: Software Engineer
     company: Synchronous ICT
     company_url:
