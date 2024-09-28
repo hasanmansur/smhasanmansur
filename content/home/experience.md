@@ -30,7 +30,8 @@ experience:
     date_start: '2024-08-25'
     date_end: ''
     description: |2-
-        - Mentored students, graded assignments, and proctored exams. Course: Formal Methods.
+        - Mentored students, graded assignments, and proctored exams.
+        - Course: Formal Methods.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
@@ -53,7 +54,8 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-05-01'
     description: |2-
-        - Mentored students, graded assignments, and proctored exams. Courses: Python Programming, Database, Computer Vision.
+        - Mentored students, graded assignments, and proctored exams.
+        - Courses: Python Programming, Database, Computer Vision.
   - title: Software Engineer
     company: Ice9 Interactive
     company_url:
