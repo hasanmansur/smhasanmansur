@@ -22,16 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant
-    company: Dept. of Computer Science
+  - title: AidUI
+    company: Principal Contributor | SAGE LAB, UCF
     company_url:
     company_logo:
-    location: GMU, Virginia, USA
-    date_start: '2024-08-25'
+    location: Published in ICSE'23
+    date_start: ''
     date_end: ''
     description: |2-
-        - Mentored students, graded assignments, and proctored exams.
-        - Course: Formal Methods.
+        - [paper link](https://arxiv.org/abs/2303.06782), [project repo](https://github.com/SageSELab/AidUI)
+        - AidUI is an automated approach to detect and localize deceptive design patterns on UIs.
+        - Developed a unified taxonomy and a set of heuristic rules to detect visual‑textual cues that signify the presence of deceptive UI design patterns.
+        - Automated the data pipeline to extract UIs from publicly available app usage videos and screenshots by prior studies.
+        - Designed and developed an approach that leverages computer vision and NLP techniques to detect different deceptive patterns on UI.
+        - Implemented an automated evaluation pipeline. Dockerized and published research artifacts in a public repository.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:

@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Sel. Research
+  - name: Research
     url: '#selected-research'
     weight: 35
   - name: Open Source
