@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: AidUI
-    company: Principal Contributor | SAGE LAB, UCF
+    company: sjfljfl
     company_url:
     company_logo:
     location: Published in
