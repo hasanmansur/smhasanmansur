@@ -43,9 +43,9 @@ item:
     date_end: ''
     date_start: '2017-05-31'
     description: A backend boilerplate featuring Role Based Access Control, Searching, Token Authentication, TDD.
-    organization: Personal Open Source | https://github.com/hasanmansur/Ontorjal
+    organization: Personal Open Source | https://github.com/hasanmansur/Tasky
     organization_url: ''
-    title: smashboard.co
+    title: Tasky
     url: ''
 
 
