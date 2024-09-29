@@ -27,8 +27,8 @@ experience:
     company_url:
     company_logo:
     location: Published in ICSE'23
-    date_start: '2021-05-01'
-    date_end: '2024-08-24'
+    date_start: '2021-01-01'
+    date_end: '2022-12-31'
     description: |2-
         - [paper link](https://arxiv.org/abs/2303.06782), [project repo](https://github.com/SageSELab/AidUI)
         - AidUI is an automated approach to detect and localize deceptive design patterns on UIs.
@@ -41,8 +41,8 @@ experience:
     company_url:
     company_logo:
     location: Published in ICSE'24
-    date_start: '2021-05-01'
-    date_end: '2024-08-24'
+    date_start: '2022-05-01'
+    date_end: '2023-05-31'
     description: |2-
         - [paper link](https://arxiv.org/abs/2403.13690), [project repo](https://github.com/SageSELab/MotorEase)
         - MotorEase is an approach to detect motor‑impairment accessibility violations in app UIs.
