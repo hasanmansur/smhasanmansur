@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
-    date_start: '2020'
+    date_start: '2020-08-16'
     description: Implementation of different concepts/topics of Computer Vision.
     organization: Personal Open Source | https://github.com/hasanmansur/Drishtipat
     organization_url: ''
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url:
     date_end: ''
-    date_start: '2020'
+    date_start: '2020-08-16'
     description: Implementation of DNS client & Distance Vector Routing protocol.
     organization: Personal Open Source | https://github.com/hasanmansur/Ontorjal
     organization_url: ''
@@ -41,7 +41,7 @@ item:
     url: ''
   - certificate_url:
     date_end: ''
-    date_start: '2017'
+    date_start: '2017-05-31'
     description: A backend boilerplate featuring Role Based Access Control, Searching, Token Authentication, TDD.
     organization: Personal Open Source | https://github.com/hasanmansur/Ontorjal
     organization_url: ''
