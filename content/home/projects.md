@@ -24,26 +24,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url:
-    date_end: '2020-08-31'
+    date_end: ''
     date_start: '2020-02-01'
-    description: Implementation of different Computer Vision concepts.
-    organization: Personal Open Source | Principal contributor | https://github.com/hasanmansur/Drishtipat
+    description: Implementation of different concepts/topics of Computer Vision.
+    organization: Personal Open Source | https://github.com/hasanmansur/Drishtipat
     organization_url: ''
     title: Drishtipat
     url: ''
   - certificate_url:
-    date_end: '2020-08-31'
+    date_end: ''
     date_start: '2020-02-01'
     description: Implementation of DNS client & Distance Vector Routing protocol.
-    organization: Personal Open Source | Principal contributor | https://github.com/hasanmansur/Ontorjal
+    organization: Personal Open Source | https://github.com/hasanmansur/Ontorjal
     organization_url: ''
     title: Ontorjal
     url: ''
   - certificate_url:
-    date_end: '2018-07-31'
+    date_end: ''
     date_start: '2017-04-01'
-    description: A CRM platform for social media query management and analytics.
-    organization: Ice9.co | Co-contributor | smashboard.co
+    description: A backend boilerplate featuring Role Based Access Control, Searching, Token Authentication, TDD.
+    organization: Personal Open Source | https://github.com/hasanmansur/Ontorjal
     organization_url: ''
     title: smashboard.co
     url: ''
