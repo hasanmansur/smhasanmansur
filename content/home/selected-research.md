@@ -22,8 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Multimodal Code Summarization
+    company: Principal Contributor
+    company_url:
+    company_logo:
+    location:
+    date_start: '2024-01-01'
+    date_end: ''
+    description: |2-
+        - Goal: To investigate how visual information from UI impacts in automated code summarization.
+        - Identified the research gap after conducting literature review of related works. Formulated the design of approach to address the gap.
+        - Developed the data extraction pipeline to collect and map multi-modal data (code, comment, UI) from open-source app repositories.
+        - Currently leading the team to conduct data exploratory analysis and labeling of the dataset.
+        - Currently conducting a pilot study to investigate LLM's capabilities in multi-modal prompt based code summarization.
   - title: AidUI
-    company: Principal Contributor | SAGE LAB, UCF
+    company: Principal Contributor
     company_url:
     company_logo:
     location: Published in ICSE'23
@@ -37,7 +50,7 @@ experience:
         - Designed and developed an approach that leverages computer vision and NLP techniques to detect different deceptive patterns on UI.
         - Implemented an automated evaluation pipeline. Dockerized and published research artifacts in a public repository.
   - title: MotorEase
-    company: Co-Contributor | SAGE LAB, UCF
+    company: Co-Contributor
     company_url:
     company_logo:
     location: Published in ICSE'24

@@ -59,5 +59,5 @@ feature:
 - **Programming**: Python, Javascript, Java, C
 - **Databases**: MySQL, MongoDB, Redis, Elasticsearch, SQLite
 - **Libraries**: OpenCV, NumPy, Matplotlib, Pandas, Socket.IO
-- **ML/DL/NLP**: Transformer, LLM finetuning, PyTorch, Hugging Face, scikit‐learn, spaCy
+- **ML/DL/NLP**: LLM (prompting, finetuning), PyTorch, Hugging Face, LangChain, scikit‐learn, spaCy
 - **Backend/Cloud/DevOps**: Node.js, Express.js, REST API, AWS, Docker, Git
