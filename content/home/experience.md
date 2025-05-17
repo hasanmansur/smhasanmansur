@@ -22,40 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant
-    company: Dept. of Computer Science
-    company_url:
-    company_logo:
-    location: GMU, Virginia, USA
-    date_start: '2024-08-25'
-    date_end: ''
-    description: |2-
-        - Mentored students, graded assignments, and proctored exams.
-        - Course: Formal Methods.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
     company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
-    date_end: '2024-08-24'
+    date_end: ''
     description: |2-
-        - Areas of Contribution: Ethical Software Design, Software Evolution, Software Accessibility and Software Documentation.
-        - Currently leading a research project aimed toward developing a multimodal model (vision‑code‑comment) for code summarization.
-        - Designed and developed AidUI, an automated approach to detect and localize deceptive design patterns on UIs.
-        - Co‑contributor of MotorEase, an approach to detect motor‑impairment accessibility violations in app UIs.
-        - Co‑contributor of GUIEvo, an approach to update UI code by detecting changes between existing and proposed designs.
-        - Collaborated in developing datasets to serve as benchmarks for Bug Reporting and Bug Localization.
+        - Major areas of contribution: Software Documentation, Ethical Software Design, Software Accessibility.
+        - Currently leading the project MultiC2C, to investigate on multimodal-LLMs capabilities in capturing UI semantics for code summarization.
+        - Designed and developed the overall architecture of AidUI, an automated approach to detect and localize deceptive design patterns on UIs.
+        - Prototyped the Semantic Text Matching component of MotorEase, an approach to detect motor‑impairment accessibility violations in app UIs.
+        - Collaborated in developing datasets to serve as benchmarks for Software Evolution, Bug Reporting and Bug Localization.
   - title: Graduate Teaching Assistant
     company: Dept. of Computer Science
     company_url:
     company_logo:
     location: GMU, Virginia, USA
     date_start: '2018-08-01'
-    date_end: '2021-05-01'
+    date_end: '2025-05-01'
     description: |2-
-        - Mentored students, graded assignments, and proctored exams.
-        - Courses: Python Programming, Database, Computer Vision.
+        - Conducted lab sessions, mentored students, graded assignments, and proctored exams.
+        - Courses: Python Programming, Database, Computer Vision, Formal Methods.
   - title: Software Engineer
     company: Ice9 Ltd.
     company_url:
@@ -65,9 +54,9 @@ experience:
     date_end: '2018-07-01'
     description: |2-
         - Member of the core engineering team responsible for the development and maintenance of SMASHBOARD.CO, a social CRM product.
-        - Collaborated with the Technical Lead on strategic planning and decision‑making for architecture design, development, testing and deployment.
+        - Collaborated with the technical lead on strategic planning and decision‑making for architecture design, development, testing and deployment.
         - Lead the development and integration of social media query management and analytics module for INSTAGRAM.
-        - Optimized database and implemented master‑replica architecture to resolve the sync delay of real time social queries.
+        - Optimized database and implemented master-replica architecture to resolve the synchronization delay of real time social media queries.
         - Collaborated in implementing the migration of the core product from Rackspace to AWS.
   - title: Software Engineer
     company: Synchronous ICT
@@ -78,9 +67,9 @@ experience:
     date_end: '2017-04-01'
     description: |2-
         - Lead the team to develop user management, search and notification platforms of project COMX, an in‑house application framework.
-        - Assessed the capacity to deliver, formed sprints and released duration based development milestones.
-        - Established standard software engineering practices like version controlling, issue & project tracking.
-        - Documented technical specifications & maintained all reports pertaining to the development process.
+        - Assessed team's capacity to deliver, formed sprints and released duration based development milestones.
+        - Established standard software engineering practices like version controlling, issue and project tracking.
+        - Documented technical specifications and maintained all reports pertaining to the development process.
   - title: Software Engineer
     company: Dcastalia
     company_url:
