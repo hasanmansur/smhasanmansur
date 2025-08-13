@@ -30,11 +30,11 @@ experience:
     date_start: '2024-01-01'
     date_end: ''
     description: |2-
-        - Goal: To investigate how visual information from UI impacts in automated code summarization.
-        - Identified the research gap after conducting literature review of related works. Formulated the design of approach to address the gap.
-        - Developed the data extraction pipeline to collect and map multi-modal data (code, comment, UI) from open-source app repositories.
-        - Currently leading the team to conduct data exploratory analysis and labeling of the dataset.
-        - Currently conducting a pilot study to investigate LLM's capabilities in multi-modal prompt based code summarization.
+        - Goal: To investigate on Multimodal‑LLMs capabilities in capturing UI semantics for code summarization.
+        - Automated the data extraction pipeline to collect and map multi-modal data (code, comment, UI) from open-source app repositories.
+        - Lead the team to develop ground truth code summaries by augmenting UI information.
+        - Formulated the design of experiments that include different prompt techniques, input modalities and LLMs.
+        - Developed the pipeline for both lexical and semantic similarity based quantitative evaluation.
   - title: AidUI
     company: Principal Contributor
     company_url:
