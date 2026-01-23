@@ -47,7 +47,7 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
-### 👋 Looking for Research/SWE positions 👋
+### 👋 Actively looking for full-time Teaching track positions 👋
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
