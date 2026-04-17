@@ -56,7 +56,7 @@ highlight_name: true
 - **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
-- Open to relocation and **no sponsorship required**
+- **U.S. Legal Permanent Resident** and open to relocation
 <!-- - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
