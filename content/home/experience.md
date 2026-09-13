@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor, Computer Science
+    company: Stephen F. Austin State University
+    company_url:
+    company_logo:
+    location: Nacogdoches, Texas, USA
+    date_start: '2026-09-01'
+    date_end: ''
+    description: |2-
+        - Major areas of contribution: Software Documentation, Ethical Software Design, Software Accessibility.
+        - Currently leading the project MultiC2C, to investigate on multimodal-LLMs capabilities in capturing UI semantics for code summarization.
+        - Designed and developed the overall architecture of AidUI, an automated approach to detect and localize deceptive design patterns on UIs.
+        - Prototyped the Semantic Text Matching component of MotorEase, an approach to detect motor‑impairment accessibility violations in app UIs.
+        - Collaborated in developing datasets to serve as benchmarks for Software Evolution, Bug Reporting and Bug Localization.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
