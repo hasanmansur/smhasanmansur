@@ -1,6 +1,6 @@
 ---
 title: S M Hasan Mansur
-role: Assistant Professor, Computer Science
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include Software Engineering, HCI, Machine Learning, Generative AI, Large Language Model (LLM).
 interests:
@@ -41,7 +41,7 @@ education:
     - course: BS in CS
       institution: Shah Jalal University of Science & Technology, Bangladesh
       year: 2007
-email: smansur4@gmu.edu
+email: SM.Hasan.Mansur@sfasu.edu
 superuser: true
 highlight_name: true
 ---
@@ -50,7 +50,7 @@ highlight_name: true
 
 - **PhD** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
 - Worked at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- **Research focus** *Automated Software Engineering via Multimodal AI*
+- **Doctoral Research focus** *Automated Software Engineering via Multimodal AI*
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
 
