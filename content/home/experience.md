@@ -28,7 +28,7 @@ experience:
     company_logo:
     location: GMU, Virginia, USA
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2026-05-31'
     description: |2-
         - Major areas of contribution: Software Documentation, Ethical Software Design, Software Accessibility.
         - Currently leading the project MultiC2C, to investigate on multimodal-LLMs capabilities in capturing UI semantics for code summarization.
