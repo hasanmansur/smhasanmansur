@@ -30,11 +30,11 @@ experience:
     date_start: '2026-09-01'
     date_end: ''
     description: |2-
-        - Major areas of contribution: Software Documentation, Ethical Software Design, Software Accessibility.
-        - Currently leading the project MultiC2C, to investigate on multimodal-LLMs capabilities in capturing UI semantics for code summarization.
-        - Designed and developed the overall architecture of AidUI, an automated approach to detect and localize deceptive design patterns on UIs.
-        - Prototyped the Semantic Text Matching component of MotorEase, an approach to detect motor‑impairment accessibility violations in app UIs.
-        - Collaborated in developing datasets to serve as benchmarks for Software Evolution, Bug Reporting and Bug Localization.
+        - Teach undergraduate courses in Computer Programming Principles and Object-Oriented Programming Methods, emphasizing Java programming, computational thinking, and software development.
+        - Design and deliver lectures, coding demonstrations, programming assignments, projects, quizzes, and examinations aligned with course learning outcomes.
+        - Develop hands-on programming activities and projects to strengthen students’ algorithmic thinking, problem-solving, debugging, and software development skills.
+        - Assess student learning through programming assignments, projects, quizzes, examinations, and individualized feedback.
+        - Mentor and support students through office hours and one-on-one guidance on programming concepts, debugging, and software development practices.
   - title: Graduate Research Assistant
     company: SAGE Lab
     company_url:
