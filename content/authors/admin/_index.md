@@ -1,6 +1,6 @@
 ---
 title: S M Hasan Mansur
-role: PhD Candidate
+role: Assistant Professor, Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include Software Engineering, HCI, Machine Learning, Generative AI, Large Language Model (LLM).
 interests:
@@ -26,17 +26,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/smhasanmansur/
 organizations:
-  - url: https://sagelab.io/
-    name: SAGE Lab
-  - url: https://cs.gmu.edu
+  - url: https://www.sfasu.edu/academics/colleges/sciences-math/computer-science
     name: Computer Science
-  - url: https://www.gmu.edu/
-    name: George Mason University
+  - url: https://www.sfasu.edu/
+    name: Stephen F. Austin State University
 education:
   courses:
-    - course: PhD candidate in CS
+    - course: PhD in CS
       institution: George Mason University
-      year: 2018 - 2026 (expected)
+      year: 2026
     - course: MS in CS
       institution: George Mason University
       year: 2023
@@ -47,16 +45,15 @@ email: smansur4@gmu.edu
 superuser: true
 highlight_name: true
 ---
-### 👋 Actively looking for full-time Teaching track positions 👋
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-- **PhD candidate** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
-- Working at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
-- **Research focus** *Automated Software Engineering via Multimodal Machine Learning*
+- **PhD** in [Computer Science](https://cs.gmu.edu/) at [George Mason University](https://www.gmu.edu/)
+- Worked at [SAGE](https://sagelab.io/) lab led by [Dr. Kevin Moran](https://www.kpmoran.com/)
+- **Research focus** *Automated Software Engineering via Multimodal AI*
 - **5+ years of professional** software engineering experience
 - **Publication track record** in top-tier SWE venues
-- **U.S. Legal Permanent Resident** and open to relocation
+
 <!-- - Conversant with building RESTful application backend with Node.js/Express.js in a microservices architecture
 - Competent in MySQL, MongoDB, Redis, Elasticsearch, Docker
 - Familiar with standard development practices like Version Control, TDD & Cloud technologies (AWS)
